@@ -10,3 +10,5 @@ temp
 node_modules
 js/build.js
 styles/build.css
+plugins/paymethod/paypal/vendor
+UPLOADS/scheduledTaskLogs
